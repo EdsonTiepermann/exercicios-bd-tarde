@@ -22,15 +22,16 @@ Exercícios para o módulo de Banco de Dados
 
 (' ', 'marlon', 'balduino taques', '29', '2000-12-02', '99999-9995');
 
+
 1.2 - adicionar as informacoes na tb_cidades
 
-(' ', 'ponta grossa', 'parana', 'pr'),
+('ponta grossa', 'parana', 'pr'),
 
-(' ', 'curitiba', 'parana', 'pr'),
+('curitiba', 'parana', 'pr'),
 
-(' ', 'camboriu', 'santa catarina', 'sc'),
+('camboriu', 'santa catarina', 'sc'),
 
-(' ', 'caixias do sul', 'rio grande do sul', 'rs');
+('caixias do sul', 'rio grande do sul', 'rs');
 
 
 02 - Adicione os id da tb_cidades, nos fk da tb_alunos.
