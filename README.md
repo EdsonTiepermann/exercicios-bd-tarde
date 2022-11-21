@@ -90,6 +90,10 @@ F- Selecione o(s) aluno(s) residente no Rio Grande do Sul, informse sua primary 
 
 ('1', 'ricardo', 'santos', '25', '2003-12-04', '99999-9910', '0', '4');
 
+06 - Gere as sqls e o resultado adicione no txt já existente para suir no git.
+
+a- Selecione todas as informações dos tb_alunos e todas as informações da tb_cidades utilizando as chaves de referência.
+
 
 
 
