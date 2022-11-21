@@ -5,12 +5,12 @@ Exercícios para o módulo de Banco de Dados
 
 Obs. levar em consideração para o campo sexo 0 = masc, 1 = fem
 
--tb_alunos (id, fk_cidade, nome, endereço, numero_casa, nascimento, telefone, sexo)
+-tb_alunos (id, fk_cidade, nome, endereco, numero_casa, nascimento, telefone, sexo)
 
 -tb_cidades (id, nome, estado, abv_estado)
 
 
-1.1 - adicionar as informacções na tb_alunos
+1.1 - adicionar as informações na tb_alunos
 
 ('4', 'maria', 'marte', '37', '1988-04-01', '99999-9991', '1'),
 
@@ -50,5 +50,46 @@ D- Selecione todos os alunos com todas as suas informações.
 E- Selecione todos os alunos do sexo feminino, apresentando os seus nomes e data de nascimento.
 
 F- Selecione o(s) aluno(s) residente no Rio Grande do Sul, informse sua primary key, nome e sexo.
+
+03 - Crie uma tabela chamada tb_cursos com os seguintes campos
+(id_curso, materia, carga_horaria)
+
+03.1- Adicione as seguintes informações na tb_cursos.
+
+('html', '36'),
+
+('css', '40'),
+
+('js', '44'),
+
+('php', '44');
+
+04- Adicione uma coluna chamada fk_curso do tipo foreign key na tabela tb_alunos.
+
+05- Adicione as informações a seguir na tabela tb_alunos no campo fk_curso.
+
+('2'),
+
+('1'),
+
+('3'),
+
+('4'),
+
+('4');
+
+05- Adicione as informações a seguir na tabela tb_alunos.
+
+('4', 'bianca', 'azaleia', '58', '1990-04-03', '99999-9996', '1', '2'),
+
+('2', 'jocelene', 'colibri', '256', '1095-07-09', '99999-9997', '1', '1'),
+
+('4', 'lucas', 'germano', '356', '1993-03-29', '99999-9998', '0', '3'),
+
+('2', 'marcos', 'siqueira', '21', '2001-08-02', '99999-9999', '0', '4'),
+
+('1', 'ricardo', 'santos', '25', '2003-12-04', '99999-9910', '0', '4');
+
+
 
 
