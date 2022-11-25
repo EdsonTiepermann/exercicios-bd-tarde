@@ -114,7 +114,7 @@ criar os registros:
 
 12 - selecionar o nome de todos os alunos que fazem o curso de html e js.
 
-13 - selecionar todos os alunos todos os alunos do paraná, que estão matrículados no turno da manhã.
+13 - selecionar todos os alunos do paraná, que estão matrículados no turno da manhã.
 
 
 
