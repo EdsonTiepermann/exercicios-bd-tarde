@@ -94,6 +94,28 @@ F- Selecione o(s) aluno(s) residente no Rio Grande do Sul, informse sua primary 
 
 a- Selecione todas as informações dos tb_alunos e todas as informações da tb_cidades utilizando as chaves de referência.
 
+07 - criar uma tabela tb_turno com os campos:
+
+(id_turno, turno)
+
+criar os registros:
+
+('manha'),
+('tarde'),
+('noite');
+
+08 - criar uma chave estrangeiro na tb_alunos com referencia ao id turno
+
+09 - selecionar todos os alunos que fazem o curso de html, no turno da tarde.
+
+10 - selecionar todos os alunos que fazem o curso de js, no turno da noite
+
+11 - selecionar apenas os alunos do sexo do tipo 1, que estão matrículados no turno da tarde, independente do curso.
+
+12 - selecionar o nome de todos os alunos que fazem o curso de html e js.
+
+13 - selecionar todos os alunos todos os alunos do paraná, que estão matrículados no turno da manhã.
+
 
 
 
