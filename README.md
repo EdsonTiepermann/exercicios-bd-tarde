@@ -116,6 +116,6 @@ criar os registros:
 
 13 - selecionar todos os alunos do paraná, que estão matrículados no turno da manhã.
 
+14 - crie 2 sqls uma para o sexo masculino e outra para o sexo feminino cada uma delas com todos os alunos cadastrados e informe o seu id, nome, data de nascimento, o nome da cidade de onde ele é e o abv do estado e em qual turno eles estão cadastrado.
 
-
-
+15 - Selecione todos os alunos cadastrados no curso de php e informe o seu id, nome, data de nascimento, o nome da cidade de onde ele é e em qual turno o mesmo está cadastrado.
