@@ -119,3 +119,19 @@ criar os registros:
 14 - crie 2 sqls uma para o sexo masculino e outra para o sexo feminino cada uma delas com todos os alunos cadastrados e informe o seu id, nome, data de nascimento, o nome da cidade de onde ele é e o abv do estado e em qual turno eles estão cadastrado.
 
 15 - Selecione todos os alunos cadastrados no curso de php e informe o seu id, nome, data de nascimento, o nome da cidade de onde ele é e em qual turno o mesmo está cadastrado.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1 - Em um arquivo a parte marque qual o número do exercício e insira a sql compatível com a solicitação.
+
+a- Selecione os alunos que não moram em Ponta Grossa.
+
+b- Selecione os alunos matriculados no curso de CSS no turno da tarde ou da noite.
+
+c- Selecione os alunos em que o nome começa com 'mar'.
+
+d- Selecione os alunos em que o nome começa com 'mar' e que sejam do sexo masculino.
+
+e- Gere uma lista de todos os alunos, onde contenha seus ids, nomes, cidade, estado, curso matriculado, turno e ordene ppelo sexo e o nome em ordem alfabética.
+
+
