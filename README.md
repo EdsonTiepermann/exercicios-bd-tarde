@@ -134,4 +134,12 @@ d- Selecione os alunos em que o nome começa com 'mar' e que sejam do sexo mascu
 
 e- Gere uma lista de todos os alunos, onde contenha seus ids, nomes, cidade, estado, curso matriculado, turno e ordene ppelo sexo e o nome em ordem alfabética.
 
+2 - faça uma nova tabela (tb_notas), nessa tabela deve-se ter os itens obrigatórios abordados nas aulas anteriores. Além disso, crie um campo fk_aluno, fk_curso, nota, ano, semestre.
 
+3 - faça insert de mais 20 alunos na tabela de alunos (pela linha de comando).
+
+4 - crie registros na tabela tb_notas, relacionando as fk's necessárias, das outras tabelas já criadas.
+
+5 - crie uma SQL para buscar todos os alunos que tiverem notas maiores que 7.
+
+6 - crie uma SQL que busque a quantidade de alunos que obtiveram nota maior que 7, separado por matéria.
