@@ -143,3 +143,13 @@ e- Gere uma lista de todos os alunos, onde contenha seus ids, nomes, cidade, est
 5 - crie uma SQL para buscar todos os alunos que tiverem notas maiores que 7.
 
 6 - crie uma SQL que busque a quantidade de alunos que obtiveram nota maior que 7, separado por matéria.
+
+7 - Gere 2 sqls uma que retorne a maior idade dos alunos, e a outra que retorne a menor idades dos alunos e de quais estados são.
+
+8 - Gere uma sql que contenha a média das idades dos alunos.
+
+9 - Após realizar o exercício anterior, arredonde a média das idades.
+
+10 - Gere uma sql que retorne a quantidade de caracteres dos nomes das cidades.
+
+11- Gere uma sql que concatene o nome dos alunos e sua cidade em uma única coluna.
