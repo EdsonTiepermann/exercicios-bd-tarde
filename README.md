@@ -124,7 +124,7 @@ criar os registros:
 
 1 - Em um arquivo a parte marque qual o número do exercício e insira a sql compatível com a solicitação.
 
-a- Selecione os alunos que não moram em Ponta Grossa.
+a- Selecione os alunos que não moram em Ponta Grossa. 
 
 b- Selecione os alunos matriculados no curso de CSS no turno da tarde ou da noite.
 
@@ -144,11 +144,11 @@ e- Gere uma lista de todos os alunos, onde contenha seus ids, nomes, cidade, est
 
 6 - crie uma SQL que busque a quantidade de alunos que obtiveram nota maior que 7, separado por matéria.
 
-7 - Gere 2 sqls uma que retorne a maior idade dos alunos, e a outra que retorne a menor idades dos alunos e de quais estados são.
+7 - Gere 2 sqls uma que retorne o maior número da casa dos alunos, e a outra que retorne a menor número da casa dos alunos e de quais estados são.
 
-8 - Gere uma sql que contenha a média das idades dos alunos.
+8 - Gere uma sql que contenha a média dos números das casas dos alunos.
 
-9 - Após realizar o exercício anterior, arredonde a média das idades.
+9 - Após realizar o exercício anterior, arredonde a média dos números das casas.
 
 10 - Gere uma sql que retorne a quantidade de caracteres dos nomes das cidades.
 
