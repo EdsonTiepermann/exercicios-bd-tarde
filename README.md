@@ -153,3 +153,17 @@ e- Gere uma lista de todos os alunos, onde contenha seus ids, nomes, cidade, est
 10 - Gere uma sql que retorne a quantidade de caracteres dos nomes das cidades.
 
 11- Gere uma sql que concatene o nome dos alunos e sua cidade em uma única coluna.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercícios de BD
+
+1 - fazer uma tela, com conexão com o banco de dados, que uma lista de todos os alunos
+
+2 - fazer uma tela, com conexão com o BD, que traga todos os alunos de ponta grossa
+
+3 - fazer uma tela, com conexão com o BD, que traga todos os alunos de ponta grossa e que não faça o curso de HTML
+
+4 - fazer uma tela, com conexão com o BD, que mostre todos os alunos com as seguintes informações, apenas: Nome do aluno, endereço, cidade onde mora, estado onde mora, nome do curso que está cadastrado
+
+
